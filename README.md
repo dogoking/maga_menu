@@ -1,2 +1,2 @@
 # maga_menu
-Maga menu navigation bar 
+Mega menu navigation bar ust HTML and CSS 
